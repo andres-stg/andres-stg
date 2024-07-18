@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Torres</h1>
-<h3 align="center">A passionate software engineer developer from Venezuela</h3>
+<h3 align="center">A passionate software engineer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andres-stg&label=Profile%20views&color=0e75b6&style=flat" alt="andres-stg" /> </p>
 
