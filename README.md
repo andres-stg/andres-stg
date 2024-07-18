@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **AI, Cybersecurity and Automation 🤖**
 
-- 👯 I’m looking to collaborate on: **Challenging front and back-end for building web apps**
+- 👯 I’m looking to collaborate on: **Challenging front and back-end tasks for building web applications**
 
 - 🤝 I’m looking for help with: [Atlas, an e-learning initiative](https://github.com/4GeeksAcademy/Atlas_elearning)
 
