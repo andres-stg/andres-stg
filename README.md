@@ -27,8 +27,7 @@
 </p>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -81,4 +80,5 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres-stg&show_icons=true&locale=en&layout=compact" alt="andres-stg" /></p>
+<h3 align="left">Connect with me!</h3>
+<p><img align="center" src="https://github.com/andres-stg" alt="andres-stg" /></p>
