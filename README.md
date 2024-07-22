@@ -81,4 +81,3 @@
 
 
 <h3 align="left">Connect with me!</h3>
-<p><img align="center" alt="andres-stg LinkedIn" /></p>
