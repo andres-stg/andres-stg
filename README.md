@@ -27,9 +27,6 @@
 </p>
 <br>
 
-<p align="center">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -81,3 +78,6 @@
 
 
 <h3 align="left">Connect with me!</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-torresgarc%C3%ADa-/" target="_blank">LinkedIn</a>
+</p>
