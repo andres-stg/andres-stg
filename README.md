@@ -81,4 +81,4 @@
 
 
 <h3 align="left">Connect with me!</h3>
-<p><img align="center" src="https://www.linkedin.com/in/andr%C3%A9s-torresgarc%C3%ADa-/" alt="andres-stg" /></p>
+<p><img align="center" alt="andres-stg LinkedIn" /></p>
